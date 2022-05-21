@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\user\source\repos\creative work\salesman\functions.h(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(107): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(108): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(125): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(137): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(141): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(142): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(170): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(171): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\creative work\salesman\functions.h(212): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\creative work\salesman\functions.h(218): warning C4018: <: несоответствие типов со знаком и без знака
+  SalesMan.vcxproj -> C:\Users\User\source\repos\Creative work\Debug\SalesMan.exe

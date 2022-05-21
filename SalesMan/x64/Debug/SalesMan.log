@@ -1,0 +1,13 @@
+﻿  Apex.cpp
+c:\users\user\source\repos\creative work\salesman\apex.cpp(123): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  Создание кода...
+  SalesMan.vcxproj -> C:\Users\User\source\repos\Creative work\x64\Debug\SalesMan.exe
